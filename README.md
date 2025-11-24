@@ -44,7 +44,7 @@ This repository contains five SQL queries designed to extract key business insig
 
 I verified the SQL results by building an automated Excel dashboard. This demonstrates how I can move from raw database extraction to stakeholder-ready visualization.
 
-### 📺 [Watch the 2-Minute Walkthrough Video]. (https://youtu.be/_dF72_hO9pc)
+### 📺 [Watch the 2-Minute Walkthrough Video](https://youtu.be/_dF72_hO9pc)
 
 **What I built:**
 * **ETL Pipeline:** Used **Power Query** to join `Orders`, `Products`, and `Customers` tables and calculate Gross Margin automatically.
