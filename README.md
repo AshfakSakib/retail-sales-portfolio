@@ -44,12 +44,12 @@ This repository contains five SQL queries designed to extract key business insig
 
 I verified the SQL results by building an automated Excel dashboard. This demonstrates how I can move from raw database extraction to stakeholder-ready visualization.
 
-### 📺 [Watch the 2-Minute Walkthrough Video]. ( https://youtu.be/_dF72_hO9pc )
+### 📺 [Watch the 2-Minute Walkthrough Video]. (https://youtu.be/_dF72_hO9pc)
 
 **What I built:**
 * **ETL Pipeline:** Used **Power Query** to join `Orders`, `Products`, and `Customers` tables and calculate Gross Margin automatically.
 * **Dynamic Analysis:** Created Pivot Tables to replicate the SQL insights (Top 5 Products, Sales Trends).
 * **Visualization:** Built an interactive dashboard with Slicers for regional drill-down.
 
-**📂 File:** [Download the Excel Dashboard](./excel/week2_sales_dashboard.xlsx.xlsx)
+**📂 File:** [Download the Excel Dashboard](./excel/week2_sales_dashboard.xlsx)
 *(Note: You must download the file to interact with the Slicers)*
